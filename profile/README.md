@@ -13,6 +13,6 @@
 
 <img src="https://user-images.githubusercontent.com/9789945/174842669-3a667e61-8722-40ad-aed3-bdd9a6e7c43b.png" style="width: 100%"/>
 
-Hey there, we're building Sqrl — a modern timetable planner for the University of Toronto. If you want to suggest/add a feature, document a bug, localize to your fluent language, we'd appreciate all your help and contribution. 
+Hey there, we're building Sqrl — a modern timetable planner for the University of Toronto. We're fully open source and welcome contributions! If you want to suggest/add a feature, document a bug, or localize to your fluent language, we'd appreciate all your help and contribution. 
 
 We hope you'll love Sqrl as much as we do :)
